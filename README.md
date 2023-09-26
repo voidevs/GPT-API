@@ -5,6 +5,6 @@ This is a completely free API for using the GPT AI model
 `https://api.voidevs.com/v1/gpt/free?msg=hello`
 
 # Description
-1. You can put your question instead of hello
+1- You can put your question instead of hello
 
-2. This API also supports GET and POST methods
+2- This API also supports GET and POST methods
